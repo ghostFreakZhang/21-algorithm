@@ -9,3 +9,6 @@
 
 ### day_2
 [小而美的算法技巧：前缀和数组](https://labuladong.github.io/algo/2/22/56/)
+
+### day_3
+[小而美的算法技巧：差分数组](https://labuladong.github.io/algo/2/22/57/)
