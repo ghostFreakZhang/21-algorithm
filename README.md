@@ -12,3 +12,6 @@
 
 ### day_3
 [小而美的算法技巧：差分数组](https://labuladong.github.io/algo/2/22/57/)
+
+### day_4
+[二维数组的花式遍历技巧](https://labuladong.github.io/algo/2/22/59/)
