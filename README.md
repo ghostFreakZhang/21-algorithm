@@ -18,3 +18,6 @@
 
 ### day_5
 [滑动窗口技巧](https://labuladong.github.io/algo/2/22/60/)
+
+### day_6
+[二分搜索技巧](https://labuladong.github.io/algo/2/22/61/)
