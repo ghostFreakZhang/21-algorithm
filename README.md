@@ -21,3 +21,6 @@
 
 ### day_6
 [二分搜索技巧](https://labuladong.github.io/algo/2/22/61/)
+
+### day_7
+[递归反转链表技巧](https://labuladong.github.io/algo/2/18/18/)
