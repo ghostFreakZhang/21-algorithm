@@ -24,3 +24,6 @@
 
 ### day_7
 [递归反转链表技巧](https://labuladong.github.io/algo/2/18/18/)
+
+### day_8
+[在数组中以 O(1) 删除元素](https://labuladong.github.io/algo/2/22/65/)
