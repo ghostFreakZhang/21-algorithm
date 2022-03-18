@@ -27,3 +27,6 @@
 
 ### day_8
 [在数组中以 O(1) 删除元素](https://labuladong.github.io/algo/2/22/65/)
+
+### day_9
+[LRU 算法设计](https://labuladong.github.io/algo/2/21/46/)
