@@ -30,3 +30,6 @@
 
 ### day_9
 [LRU 算法设计](https://labuladong.github.io/algo/2/21/46/)
+
+### day_10
+[二叉树算法入门](https://labuladong.github.io/algo/2/19/23/)
