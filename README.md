@@ -33,3 +33,6 @@
 
 ### day_10
 [二叉树算法入门](https://labuladong.github.io/algo/2/19/23/)
+
+### day_11
+[二叉搜索树基础操作](https://labuladong.github.io/algo/2/19/28/)
