@@ -4,31 +4,31 @@
 ##  题目发布链接
 [21 天刷题打卡](https://github.com/labuladong/challenge/issues)
 
-### day_1
+### day_01
 [一文搞懂单链表的六大解题套路](https://labuladong.github.io/algo/2/18/17/)
 
-### day_2
+### day_02
 [小而美的算法技巧：前缀和数组](https://labuladong.github.io/algo/2/22/56/)
 
-### day_3
+### day_03
 [小而美的算法技巧：差分数组](https://labuladong.github.io/algo/2/22/57/)
 
-### day_4
+### day_04
 [二维数组的花式遍历技巧](https://labuladong.github.io/algo/2/22/59/)
 
-### day_5
+### day_05
 [滑动窗口技巧](https://labuladong.github.io/algo/2/22/60/)
 
-### day_6
+### day_06
 [二分搜索技巧](https://labuladong.github.io/algo/2/22/61/)
 
-### day_7
+### day_07
 [递归反转链表技巧](https://labuladong.github.io/algo/2/18/18/)
 
-### day_8
+### day_08
 [在数组中以 O(1) 删除元素](https://labuladong.github.io/algo/2/22/65/)
 
-### day_9
+### day_09
 [LRU 算法设计](https://labuladong.github.io/algo/2/21/46/)
 
 ### day_10
