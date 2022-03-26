@@ -48,3 +48,6 @@
 
 ### day_15
 [回溯算法核心原理](https://labuladong.github.io/algo/4/30/106/)
+
+### day_16
+[回溯算法解决排列组合和子集问题](https://labuladong.github.io/algo/4/30/108/)
