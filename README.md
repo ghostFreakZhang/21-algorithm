@@ -57,3 +57,6 @@
 
 ### day_18
 [动态规划核心原理](https://labuladong.github.io/algo/3/24/69/)
+
+### day_19
+[动态规划设计方法](https://labuladong.github.io/algo/3/24/70/)
