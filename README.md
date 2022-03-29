@@ -54,3 +54,6 @@
 
 ### day_17
 [子集划分问题](https://labuladong.github.io/algo/4/30/107/)
+
+### day_18
+[动态规划核心原理](https://labuladong.github.io/algo/3/24/69/)
