@@ -63,3 +63,6 @@
 
 ### day_20
 [编辑距离](https://labuladong.github.io/algo/3/25/76/)
+
+### day_21
+[魔塔游戏](https://labuladong.github.io/algo/3/27/87/)
