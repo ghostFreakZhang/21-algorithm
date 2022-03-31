@@ -50,10 +50,10 @@
 [回溯算法核心原理](https://labuladong.github.io/algo/4/30/106/)
 
 ### day_16
-[回溯算法解决排列组合和子集问题](https://labuladong.github.io/algo/4/30/108/)
+[回溯算法解决排列组合和子集问题](https://labuladong.github.io/algo/4/30/107/)
 
 ### day_17
-[子集划分问题](https://labuladong.github.io/algo/4/30/107/)
+[子集划分问题](https://labuladong.github.io/algo/4/30/106/)
 
 ### day_18
 [动态规划核心原理](https://labuladong.github.io/algo/3/24/69/)
